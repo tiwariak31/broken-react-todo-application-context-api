@@ -9,7 +9,7 @@ This application was intentionally broken, there are six critical issues that a 
 5. Fix an ability to delete a task.
 6. Fix an ability to count completed tasks.
 
-The working example can be found at 
+The working example can be found at https://github.com/tiwariak31/broken-react-todo-application-context-api
 
 ## Available Scripts
 
